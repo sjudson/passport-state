@@ -28,6 +28,7 @@
   ],
   "main": "./lib",
   "dependencies": {
+    "flowstate": "^0.4.0",
     "passport-strategy": "1.x.x"
   },
   "devDependencies": {
